@@ -3,7 +3,7 @@
 ## 🚀 Overview
 This project is a decentralized application (dApp) that combines Machine Learning and blockchain technology to verify the authenticity of financial news.
 
-![User Interface]()
+![User Interface](https://github.com/amjadzkwn/AI-powered-financial-news-verification-dApp/blob/737d02fae1a0afd2b993c474fcc7dda313b07557/User%20Interface.png)
 
 It uses:
 - AI model for fake news detection
